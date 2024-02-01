@@ -28,8 +28,3 @@ if ( num % 2 == 0 )
      else
         System.out.println("Entered number is odd");
 }
-Srireddy Comme3nts
-
-Don't use my name in your code siva
-
-Don't use my name in your code siva
